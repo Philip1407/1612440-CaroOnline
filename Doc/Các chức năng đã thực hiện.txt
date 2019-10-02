@@ -1,8 +1,10 @@
 ﻿Các chức năng đã thực hiện
-- Hiển vị trí đánh trong giao diện hiển thị danh sách nước đi
-- In đậm dòng đang chọn ở danh sách nước đi
-- Thêm chức năng cho phép hiển thị danh sách nước đi giảm dần hay tăng dần
-- Khi có người thắng, làm rõ những quân cờ nào tạo thành đường thắng
-- Đăng tải lên host thực tế (https://neocaro-1612440.herokuapp.com)
+- Commit và Push project lên Git theo từng giai đoạn: 2 điểm
+- Cài đặt được Airbnb Eslint, Prettier, Husky theo hướng dẫn: 2 điểm
+- Sửa hết các warning: 2 điểm
+- Đăng tải lên host thực tế (https://refactorcaro-1612440.herokuapp.com/): 2 điểm.
 
-Tổng: 10
+Các chức năng chưa thực hiện xong
+- Sửa hết các error
+
+Tổng: 9
