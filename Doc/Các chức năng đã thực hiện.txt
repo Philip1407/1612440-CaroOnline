@@ -2,9 +2,7 @@
 - Commit và Push project lên Git theo từng giai đoạn: 2 điểm
 - Cài đặt được Airbnb Eslint, Prettier, Husky theo hướng dẫn: 2 điểm
 - Sửa hết các warning: 2 điểm
-- Đăng tải lên host thực tế (https://refactorcaro-1612440.herokuapp.com/): 2 điểm.
+- Sửa hết các error: 2 điểm
+- Đăng tải lên host thực tế (https://refactorcaro-1612440.herokuapp.com/): 2 điểm
 
-Các chức năng chưa thực hiện xong
-- Sửa hết các error
-
-Tổng: 9
+Tổng: 10
